@@ -1,0 +1,42 @@
+﻿<Window x:Class="Fitfolio.add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fitfolio"
+        mc:Ignorable="d"
+        Title="add" Height="372" Width="812">
+    <Grid Margin="0,0,10,3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="7" Grid.Column="1" Content="New Exercise " Margin="72,55,532,75" />
+        <TextBox Grid.Row="7" x:Name="titleTextBox" Margin="177,55,388,75" Grid.Column="1" />
+
+        <Label Grid.Row="7" Grid.Column="1" Content="New Exercise Description " Margin="72,85,532,41" />
+        <TextBox Grid.Row="7" x:Name="descriptionTextBox" Margin="235,85,108,41" Grid.Column="1" />
+
+        <Label Grid.Row="7" Grid.Column="1" Content="This Exercise belongs to Workout " Margin="72,131,518,-7" />
+
+        <ComboBox Grid.Column="1" HorizontalAlignment="Left" Margin="278,135,0,0" Grid.Row="7" VerticalAlignment="Top" Width="120" SelectedIndex="0" Name="workout">
+            <ListViewItem Content="Cardio"/>
+            <ListViewItem Content="Strength"/>
+            <ListViewItem Content="Yoga"/>
+        </ComboBox>
+
+        <Button Grid.Row="7" Content="Add Data" Click="AddData_Click" Margin="72,210,623,-86" Grid.Column="1" />
+
+    </Grid>
+</Window>

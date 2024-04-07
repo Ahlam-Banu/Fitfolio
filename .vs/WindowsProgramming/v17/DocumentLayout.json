@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2251D5-2939-4C9C-A36D-62435624E81F}|WindowsProgramming.csproj|c:\\users\\ahlam\\source\\repos\\fitfolio\\login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2251D5-2939-4C9C-A36D-62435624E81F}|WindowsProgramming.csproj|solutionrelative:login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2251D5-2939-4C9C-A36D-62435624E81F}|WindowsProgramming.csproj|c:\\users\\ahlam\\source\\repos\\fitfolio\\login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2251D5-2939-4C9C-A36D-62435624E81F}|WindowsProgramming.csproj|solutionrelative:login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2251D5-2939-4C9C-A36D-62435624E81F}|WindowsProgramming.csproj|c:\\users\\ahlam\\source\\repos\\fitfolio\\login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2251D5-2939-4C9C-A36D-62435624E81F}|WindowsProgramming.csproj|solutionrelative:login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\login\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "login\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\login\\MainWindow.xaml.cs",
+              "RelativeToolTip": "login\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:39:23.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\login\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "login\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\login\\MainWindow.xaml",
+              "RelativeToolTip": "login\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T10:39:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\login\\App.xaml",
+              "RelativeDocumentMoniker": "login\\App.xaml",
+              "ToolTip": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\login\\App.xaml",
+              "RelativeToolTip": "login\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T10:39:12.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

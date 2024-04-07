@@ -1,0 +1,24 @@
+﻿<Window x:Class="Fitfolio.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fitfolio"
+        mc:Ignorable="d"
+        Title="Edit" Height="336" Width="632">
+    <Grid>
+        <Label Content="Exercise Name " HorizontalAlignment="Left" Margin="160,78,0,0" VerticalAlignment="Top"/>
+        <Label Content="Exercise Discription" HorizontalAlignment="Left" Margin="160,109,0,0" VerticalAlignment="Top"/>
+        <Label Content="Workout" HorizontalAlignment="Left" Margin="160,151,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="222,155,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0" Name="workout">
+            <ListViewItem Content="Cardio"/>
+            <ListViewItem Content="Strength"/>
+            <ListViewItem Content="Yoga"/>
+        </ComboBox>
+        <Button Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="89" Margin="293,203,0,0" Click="Button_Click"/>
+        <TextBox x:Name="titlebox" HorizontalAlignment="Left" Margin="255,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
+        <TextBox x:Name="discriptionbox" HorizontalAlignment="Left" Margin="277,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176"/>
+
+
+    </Grid>
+</Window>
