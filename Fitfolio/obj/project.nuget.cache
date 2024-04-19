@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQLJYHMoyozfmuXqldHi/YzELVa22F8Kvm+OZn+8hyCgYPpzZL7o1nRuGIV6FzfKuJ/au0yrtotVB7Dnt5x78Q==",
+  "dgSpecHash": "pIn7dfFmgY3xrHd8ocAB/p8EV976tOrxeZJURd8VUpONFmKv8izJM3QNwq2nQGFMvJrqdAhWWqAPBjD/N2+vDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj",
+  "projectFilePath": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahlam\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Ahlam\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

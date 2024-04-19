@@ -1516,11 +1516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj",
+      "projectUniqueName": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj",
       "projectName": "Fitfolio",
-      "projectPath": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj",
+      "projectPath": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj",
       "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\obj\\",
+      "outputPath": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1582,7 +1582,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

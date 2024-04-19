@@ -8,17 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="logo.PNG" />
-    <None Remove="UI.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.32.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Resource Include="logo.PNG" />
-    <Resource Include="UI.jpg" />
   </ItemGroup>
 
 </Project>
