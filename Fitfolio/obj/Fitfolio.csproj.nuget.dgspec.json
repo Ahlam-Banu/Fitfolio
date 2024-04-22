@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj": {}
+    "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj": {
+    "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj",
         "projectName": "Fitfolio",
-        "projectPath": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\Fitfolio.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\source\\repos\\Fitfolio\\Fitfolio\\Fitfolio.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ahlam\\source\\repos\\FitFolio\\Fitfolio\\obj\\",
         "projectStyle": "PackageReference",

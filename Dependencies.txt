@@ -1,0 +1,9 @@
+Analyzers:
+Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+Microsoft.CodeAnalysis.NetAnalyzers.dll
+System.Text.Json.SourceGeneration.dll
+Frameworks:
+Microsoft.NETCore.App.Ref version 6.0.28
+Microsoft.WindowsDesktop.App.Ref version 6.0.28
+Packages:
+mysql.data version 8.0.32.1 from the NuGet package directory

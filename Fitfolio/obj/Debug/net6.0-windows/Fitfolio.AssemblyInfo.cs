@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fitfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d6a610dd1f8967c19355f1763d7f0dcc0c74f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1909dd577d8efd27dade56b4294161fd891f307")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fitfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fitfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
