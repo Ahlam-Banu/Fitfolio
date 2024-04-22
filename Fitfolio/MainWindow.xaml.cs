@@ -15,6 +15,12 @@ using System.Windows.Controls;
 
 namespace Fitfolio
 {
+    /// Authors Ahlam, Awais, Azeem and Bilal
+    /// Jobs: 
+    /// UI Handled By Bilal
+    /// Add Functionality, UI and logo Handled By Azeem 
+    /// UI and Rest of functionalities Handled By Ahlam 
+    /// Database and UI Handled by Awais
     public partial class MainWindow : Window
     {
         string connectionString = "server=mariadb.vamk.fi;user=e2101083;database=e2101083_FitFolio;port=3306;password=jBxqVvNfMGH";

@@ -14,7 +14,7 @@
         <TextBox HorizontalAlignment="Left" Margin="217,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Height="23"/>
         <Button x:Name="logoutbtn" Content="Log out" HorizontalAlignment="Left" Margin="742,32,0,0" VerticalAlignment="Top" Width="62" Click="Button_Click_1"/>
         <Grid x:Name="mainGrid0" Margin="18,123,16,8">
-            <!-- your other controls here -->
+            <!-- Data fetching handled by Ahlam -->
 
         </Grid>
         <Button x:Name="refreshbtn" Content="Refresh" HorizontalAlignment="Left" Margin="24,31,0,0" VerticalAlignment="Top" Width="116" Click="refreshbtn_Click"/>

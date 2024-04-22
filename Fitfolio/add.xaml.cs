@@ -4,6 +4,8 @@ using System.Windows.Controls;
 using MySql.Data.MySqlClient;
 
 namespace Fitfolio
+    //This part of the project (Add functionality
+    //of exercises) has been handled by Azeem Raza
 {
     public partial class add : Window
     {

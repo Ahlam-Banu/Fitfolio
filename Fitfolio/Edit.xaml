@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:Fitfolio"
         mc:Ignorable="d"
         Title="Edit" Height="336" Width="632">
+    <!-- Edit functionality of exercises handled by Awais -->
     <Grid>
         <Label Content="Exercise Name " HorizontalAlignment="Left" Margin="160,78,0,0" VerticalAlignment="Top"/>
         <Label Content="Exercise Discription" HorizontalAlignment="Left" Margin="160,109,0,0" VerticalAlignment="Top"/>

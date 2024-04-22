@@ -20,6 +20,7 @@ using System.Windows.Controls;
 
 
 namespace Fitfolio
+        // Edit functionality of exercises handled by Awais
 {
     public partial class Edit : Window
 	{

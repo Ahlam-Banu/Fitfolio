@@ -6,6 +6,8 @@
         xmlns:local="clr-namespace:Fitfolio"
         mc:Ignorable="d"
         Title="add" Height="372" Width="812">
+    <!-- Add functionality of exercises handled by Azeem Raza -->
+    
     <Grid Margin="0,0,10,3">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />

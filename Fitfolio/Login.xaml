@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:Fitfolio"
         mc:Ignorable="d"
         Title="Login" Height="450" Width="800">
+    <!-- Login functionality of exercises and Database handled by Ahlam Banu -->
     <Grid>
 
         <TextBlock Height="24" HorizontalAlignment="Left" Margin="214,180,0,0"  Name="textBlock1" Text="Email" VerticalAlignment="Top" Width="68" />
@@ -14,7 +15,7 @@
         <PasswordBox Height="24" HorizontalAlignment="Left" Margin="266,228,0,0" Name="passwordBox" VerticalAlignment="Top" Width="248" />
         <TextBlock Height="24" HorizontalAlignment="Left" x:Name ="errormessage" VerticalAlignment="Top" Width="248" Margin="300,322,0,0"  OpacityMask="Crimson" Foreground="#FFE5572C"  />
         <Button Content="Login" Height="22" HorizontalAlignment="Left" Margin="322,276,0,0" Name="button1" VerticalAlignment="Top" Width="104" Click="button1_Click" />
-        <Image HorizontalAlignment="Left" Height="100" Margin="255,55,0,0" VerticalAlignment="Top" Width="263" Source="/logo.PNG"/>
+        <Image HorizontalAlignment="Left" Height="119" Margin="245,44,0,0" VerticalAlignment="Top" Width="303" Source="/logo.jpeg"/>
 
     </Grid>
 </Window>

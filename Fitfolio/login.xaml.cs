@@ -15,13 +15,17 @@ using MySql.Data.MySqlClient;
 
 namespace Fitfolio
 {
-	/// <summary>
-	/// Interaction logic for Window1.xaml
-	/// </summary>
-	///     /// Authors Ahmed And Yossef
-	/// Jobs: UI and Add Function Handled By youssef 
-	///       Rest of function adn Database creation Handled by Ahmed
-	public partial class Window1 : Window
+    /// <summary>
+    /// Interaction logic for Window1.xaml
+    /// </summary>
+	/// 
+    /// Authors Ahlam, Awais, Azeem and Bilal
+    /// Jobs: 
+    /// UI Handled By Bilal
+    /// Add Functionality, UI and logo Handled By Azeem 
+    /// UI and Rest of functionality Handled By Ahlam 
+    /// Database and UI Handled by Awais
+    public partial class Window1 : Window
 	{
 		
 		public Window1()
